@@ -27,4 +27,10 @@ The most famous investing bible by Ben Graham. Most contents from the book might
     - satisfactory ratio of earnings to price, a sstrong financial position, and the prospect that its earnings will at least be maintained over the years.
 
 Summary: a stock portfolio having such book values behind it can take a much more independent and detached view of stock-market fluctuations than those who have paid high multipliers of both earnings and tangible assets.
+
+#### A. & P. company exmaple
+1. The stock market often goes far wrong, and sometimes an alert and courageous investor can take advantage of its patent errors.
+2. Most business change in character and quality over years, sometimes for the better, perhaps more often for the **worse**
+
+**Important: The true investor scarcely ever is forced to sell his shares, and at all other times he is free to disregard the current price quotation. He need pay attention to it and act upon it only to the extent that the price is favorable enough to justify selling the stock. Thus the investor who permits himself to be stampeded or unduly worried by unjustified market declines in his holdings is perversely transforming his basic advantage into a basic disadvantage. That man would be better off if his stocks had no market quotation at all, for he word then be spared the mental anguish caused him by other persons' mistakes of judgment**
     
